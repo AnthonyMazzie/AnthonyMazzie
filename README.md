@@ -1,16 +1,24 @@
-## Hi there 👋
+## About me
 
-<!--
-**AnthonyMazzie/AnthonyMazzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS-certified Software Engineer specializing in cloud solutions, TypeScript, and serverless architectures. Focused on building scalable, secure, and maintainable applications.
 
-Here are some ideas to get you started:
+### 🔧 My Expertise:
+- **Cloud Architectures:** AWS Lambda, Step Functions, DynamoDB, API Gateway
+- **ETL Pipelines:** AWS Glue, S3, EventBridge, Lambda
+- **TypeScript Development:** Full-stack apps, APIs
+- **Infrastructure as Code:** AWS CDK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certifications:
+- AWS Solutions Architect – Associate
+- AWS Developer – Associate
+- AWS DevOps Engineer – Professional
+
+### 🔧 Tech Stack & Tools:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
+### 📫 How to Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/anthony-mazzie)
+- [Email](mailto:tmaz89@hotmail.com)
