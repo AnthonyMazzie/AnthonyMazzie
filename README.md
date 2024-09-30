@@ -3,10 +3,10 @@
 AWS-certified Software Engineer specializing in cloud solutions, TypeScript, and serverless architectures. Focused on building scalable, secure, and maintainable applications.
 
 ### 🔧 My Expertise:
+- **Infrastructure as Code:** AWS CDK, Terraform
 - **Cloud Architectures:** AWS Lambda, Step Functions, DynamoDB, API Gateway
 - **ETL Pipelines:** AWS Glue, S3, EventBridge, Lambda
-- **TypeScript Development:** Full-stack apps, APIs
-- **Infrastructure as Code:** AWS CDK
+- **TypeScript Development:** Full-stack
 
 ### 🏆 Certifications:
 - AWS Solutions Architect – Associate
