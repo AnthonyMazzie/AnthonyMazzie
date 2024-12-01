@@ -9,9 +9,10 @@ AWS-certified Software Engineer specializing in cloud solutions, TypeScript, and
 - **TypeScript Development:** Full-stack
 
 ### 🏆 Certifications:
-- AWS Solutions Architect – Associate
 - AWS Developer – Associate
 - AWS DevOps Engineer – Professional
+- AWS Solutions Architect – Associate
+- AWS Solutions Architect - Professional
 
 ### 🔧 Tech Stack & Tools:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
