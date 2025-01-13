@@ -2,11 +2,11 @@
 AWS-Certified Cloud Infrastructure Engineer & Architect with expertise in designing and deploying scalable, efficient cloud solutions built on cloud-native, event-driven architectures. Proficient in Kubernetes, Infrastructure-as-Code (Terraform, AWS CDK), CI/CD pipelines, TypeScript, and Python. Proven success in optimizing infrastructure, enhancing scalability, and delivering cost-efficient solutions. Recognized for technical leadership, innovation, and driving impactful cloud projects end-to-end.
 
 🔧 My Expertise:
-🛠 Infrastructure as Code: AWS CDK, Terraform
-☁️ Cloud Architectures: AWS Lambda, Step Functions, DynamoDB, API Gateway, EC2, EKS
-📊 Data Solutions & Pipelines: AWS Glue, S3, EventBridge, Lambda, Snowflake, schemachange
-📦 Containerization Tools: Docker, Kubernetes, EKS
-💻 TypeScript Development: Full-stack
+  🛠 Infrastructure as Code: AWS CDK, Terraform
+  ☁️ Cloud Architectures: AWS Lambda, Step Functions, DynamoDB, API Gateway, EC2, EKS
+  📊 Data Solutions & Pipelines: AWS Glue, S3, EventBridge, Lambda, Snowflake, schemachange
+  📦 Containerization Tools: Docker, Kubernetes, EKS
+  💻 TypeScript Development: Full-stack
 
 ### 🏆 Certifications:
 - 🥇 AWS Developer – Associate  
